@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ HudForGlass
+  ~ Copyright (C) 2014 ScalarDrone.com
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program. If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+
+    <string name="app_name">Head-up display</string>
+    <string name="live_card_app_name">HUD for Glass</string>
+    <string name="glass_voice_trigger">head-up display</string>
+    <string name="meters_kmh">Meters/Kmh</string>
+    <string name="knots_feets">Feet/Knots</string>
+    <string name="stop">Stop</string>
+    <string name="alt">ALT</string>
+    <string name="speed">SPEED</string>
+    <string name="font_size">Font Size</string>
+    <string name="line_thickness">Line Thickness</string>
+    <string name="speed_knots">Knots</string>
+    <string name="speed_kmh">Km/h</string>
+    <string name="alt_feet">Feet</string>
+    <string name="alt_meters">Meters</string>
+    <string name="getting_location">Getting location</string>
+	<string name="location_error">Location not available</string>
+	<string name="location_error_footer">Connect to the MyGlass app for GPS service</string>
+	<string name="gps_signal">GPS</string>
+	<string name="disclaimer">HUD is not intended as a replacement for aircraft flight instruments, and should not be used or relied on in any situation where safety may be compromised.</string>
+	<string name="disclaimer_footnote">Tap to continue</string>
+    <string name="mph_feets">Feet/Mph</string>
+</resources>
